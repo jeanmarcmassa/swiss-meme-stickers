@@ -1,0 +1,72 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Swiss Memes",
+      "publisher": "Jean-Marc Massa",
+      "tray_image_file": "tray_swiss.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "appezeller.webp"
+        },
+        {
+          "image_file": "bananen.webp"
+        },
+        {
+          "image_file": "blatter.webp"
+        },
+        {
+          "image_file": "blocher.webp"
+        },
+        {
+          "image_file": "blocher2.webp"
+        },
+        {
+          "image_file": "bobo.webp"
+        },
+        {
+          "image_file": "bündner.webp"
+        },
+        {
+          "image_file": "cosima.webp"
+        },
+        {
+          "image_file": "ericweber.webp"
+        },
+        {
+          "image_file": "fettli.webp"
+        },
+        {
+          "image_file": "gugus.webp"
+        },
+        {
+          "image_file": "hallovatter.webp"
+        },
+        {
+          "image_file": "immer_schlimmer.webp"
+        },
+        {
+          "image_file": "shiva.webp"
+        },
+        {
+          "image_file": "sogeil.webp"
+        },
+        {
+          "image_file": "ueli3.webp"
+        },
+        {
+          "image_file": "ueli4.webp"
+        },
+        {
+          "image_file": "ueli_richtig.webp"
+        }
+      ]
+    }
+  ]
+}
